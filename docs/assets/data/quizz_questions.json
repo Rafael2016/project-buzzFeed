@@ -1,0 +1,30 @@
+{
+  "title":"",
+  "questions":[
+    {
+      "id":1,
+      "question": "O QUE VOCÊ MAIS GOSTA NA TECNOLOGIA?",
+      "options":[
+        {"id": 1, "name":"Produtos e invenções tecnológicas", "alias":"A"},
+        {"id": 2, "name":"Soluções para o nosso dia a dia", "alias":"B"},
+        {"id": 3, "name":"Internet e a forma como as coisas podem ser armazenadas na nuvem", "alias":"A"},
+        {"id": 4, "name":"Facilidade de segmentar e automatizar dados, pessoas e processos", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "VOCÊ TEM MAIS FACILIDADE PARA TRABALHAR COM...",
+      "options":[
+        {"id": 1, "name":"Programação", "alias":"A"},
+        {"id": 2, "name":"Mapeamento de Processo", "alias":"A"},
+        {"id": 3, "name":"Disposito e Equipamento", "alias":"B"},
+        {"id": 4, "name":"Dados de Planilha", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Meus Pêsames você e o 'Menino(a) do T.I",
+    "B": "Meus Pêsames você e o 'Menino(a) do T.I",
+    "C": "Meus Pêsames você e o 'Menino(a) do T.I"
+  }
+}
